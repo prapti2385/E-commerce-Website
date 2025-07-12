@@ -1,12 +1,30 @@
-# React + Vite
+# Advanced Filtering Shoe Store App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive and modern frontend application built with **React** and **CSS** that allows users to **browse and filter shoes** based on multiple criteria such as **category, price range, color, and brand**. The UI is inspired by clean e-commerce layouts and provides a seamless shopping experience.
 
-Currently, two official plugins are available:
+Real-time filtering based on:
+- Shoe **category** (Sneakers, Flats, Sandals, Heels)
+- **Price range**
+- **Color** selection
+- **Brand** (Nike, Adidas, Puma, Vans)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
 
-## Expanding the ESLint configuration
+- **React**
+- **CSS**
+- **Vite** 
+- **Icons** from a React icon library
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+How to run locally 
+
+```bash
+cd E-commerce-Website
+npm install
+npm run dev
+```
+
+Demo Video: 
+
+https://github.com/user-attachments/assets/2e0be5f9-dadd-4211-bf51-ccec1e34b218
+
+
